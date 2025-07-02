@@ -1,2 +1,5 @@
 # Instacart
-Proyecto 4 TripleTen
+Proyecto 4 TripleTen / Preprocesamiento de datos y análisis exploratorio de datos
+Instacart es una plataforma de entregas de comestibles donde la clientela puede registrar un pedido y hacer que se lo entreguen, similar a Uber Eats y Door Dash. Este conjunto de datos particular fue lanzado públicamente por Instacart en 2017 para una competición Kaggle. Los datos reales pueden descargarse directamente de la página de la competición Kaggle.
+El conjunto de datos que utiicé tiene modificaciones del original proporcionados por TripleTen. Redujeron el tamaño del conjunto para que los cálculos se hicieran más rápido e introdujeron valores ausentes y duplicados. Tuvieron cuidado de conservar las distribuciones de los datos originales cuando hicieron los cambios.
+El objetivo del proyecto es limpiar los datos y preparar un informe que brinde información sobre los hábitos de compra de los clientes de Instacart. Después de responder a cada pregunta, escribo una breve explicación de mis resultados en una celda markdown de tu Jupyter notebook.
